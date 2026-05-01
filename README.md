@@ -16,6 +16,9 @@ An advanced, conversational AI travel planner built with **CrewAI**, **Streamlit
 - **Audio:** gTTS (Google Text-to-Speech)
 - **Observability:** LangSmith, OpenTelemetry
 
+  <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/a79c7920-2b30-462b-bf13-f21c4ca780a1" />
+
+
 ## 📦 Installation & Setup
 
 1. **Navigate to the project directory:**
