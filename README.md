@@ -17,7 +17,9 @@ An advanced, conversational AI travel planner built with **CrewAI**, **Streamlit
 - **Observability:** LangSmith, OpenTelemetry
 
   <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/a79c7920-2b30-462b-bf13-f21c4ca780a1" />
-
+  <img width="952" height="401" alt="image" src="https://github.com/user-attachments/assets/e3d30b6b-8a1a-48a7-8564-4877343e898d" />
+  <img width="632" height="266" alt="image" src="https://github.com/user-attachments/assets/92f75dc8-54a3-4d41-b1a1-8a62c4b7c321" />
+  <img width="811" height="377" alt="image" src="https://github.com/user-attachments/assets/cf21d7bc-05e2-41e5-a5c8-f4e743ad1086" />
 
 ## 📦 Installation & Setup
 
